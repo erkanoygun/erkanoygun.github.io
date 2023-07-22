@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "12b4039c64dd8d7f3dc6075dfc77ee82",
+  "assets/AssetManifest.json": "a356e03d5e42871c709cc58d09c2c54d",
 "assets/assets/animations/flutter_logo.json": "caf07791c9fdf8c951c1e5441b70fb03",
 "assets/assets/animations/game_controller.json": "848de96dc80e6a12cc8f8301af7b9560",
 "assets/assets/animations/hand.json": "2d27b677f9e5cda3a91bd25f9f788cc0",
@@ -19,9 +19,11 @@ const RESOURCES = {
 "assets/assets/images/Photo.png": "01f9ad22911f6a57c6dbf5d8c5e11272",
 "assets/assets/images/projects/arka_kapak_image.png": "a898e8f58418790a896cde83d7a46e2e",
 "assets/assets/images/projects/cansat_image.png": "09fb8bc04ff7ead51d1765bc75445fe8",
+"assets/assets/images/projects/forklift_sim.png": "b8fb2356678df1f10293d2348ba1fed4",
 "assets/assets/images/projects/game_jam_image.png": "fe4c1298d7e3fedec3c48209d152d724",
 "assets/assets/images/projects/hyper_image.png": "1ed59d587fd027d0a6befa5920f2ba73",
 "assets/assets/images/projects/mongo_image.png": "b77e5efc268607387760a8995ceec3b8",
+"assets/assets/images/projects/OUA_Bootcamp.png": "66caac08cb26a795258e7ef554cb89be",
 "assets/assets/images/projects/roller_game_image.png": "ac38796426570432995c8edfc8d98b80",
 "assets/assets/images/projects/shop_app_image.png": "39171aa2c76e4740d6816b035f063aeb",
 "assets/assets/images/projects/shop_list_image.png": "a2d96e08207c2fc2bcef35197887e78b",
@@ -63,9 +65,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2662c0ff98f9f685933b14a3c9d2ba47",
-"/": "2662c0ff98f9f685933b14a3c9d2ba47",
-"main.dart.js": "2fd22abf11a708f8e7823e1cc7c2141d",
+"index.html": "8afb18ebab7935b2a939f1a05fe2f558",
+"/": "8afb18ebab7935b2a939f1a05fe2f558",
+"main.dart.js": "963afbe33d90b21a1cd34a3706b5631c",
 "manifest.json": "55632d4001d205197a7f0031c0a85ee8",
 "version.json": "a32cbe89d51a3e073bba58946809702f"
 };
