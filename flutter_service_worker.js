@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a356e03d5e42871c709cc58d09c2c54d",
+  "assets/AssetManifest.json": "1d9ccbe97c2049452f195de3858b4133",
 "assets/assets/animations/flutter_logo.json": "caf07791c9fdf8c951c1e5441b70fb03",
 "assets/assets/animations/game_controller.json": "848de96dc80e6a12cc8f8301af7b9560",
 "assets/assets/animations/hand.json": "2d27b677f9e5cda3a91bd25f9f788cc0",
@@ -18,6 +18,7 @@ const RESOURCES = {
 "assets/assets/images/google_akademi.png": "58335582bc86693588117ca883045a98",
 "assets/assets/images/Photo.png": "01f9ad22911f6a57c6dbf5d8c5e11272",
 "assets/assets/images/projects/arka_kapak_image.png": "a898e8f58418790a896cde83d7a46e2e",
+"assets/assets/images/projects/blade_image.png": "7e7bbe03a9976deeea930988ab5392de",
 "assets/assets/images/projects/cansat_image.png": "09fb8bc04ff7ead51d1765bc75445fe8",
 "assets/assets/images/projects/forklift_sim.png": "b8fb2356678df1f10293d2348ba1fed4",
 "assets/assets/images/projects/game_jam_image.png": "fe4c1298d7e3fedec3c48209d152d724",
@@ -65,9 +66,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8afb18ebab7935b2a939f1a05fe2f558",
-"/": "8afb18ebab7935b2a939f1a05fe2f558",
-"main.dart.js": "963afbe33d90b21a1cd34a3706b5631c",
+"index.html": "617cdda6820f52b04bcbf8a138cb3969",
+"/": "617cdda6820f52b04bcbf8a138cb3969",
+"main.dart.js": "1271607840aefb6feff0d55cbaa02ffa",
 "manifest.json": "55632d4001d205197a7f0031c0a85ee8",
 "version.json": "a32cbe89d51a3e073bba58946809702f"
 };
