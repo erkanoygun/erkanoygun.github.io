@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "38372da70bf13e22760168162e9fb315",
+  "assets/AssetManifest.json": "f859317500f7aab5329bdba45f304094",
 "assets/assets/animations/flutter_logo.json": "caf07791c9fdf8c951c1e5441b70fb03",
 "assets/assets/animations/game_controller.json": "848de96dc80e6a12cc8f8301af7b9560",
 "assets/assets/animations/hand.json": "2d27b677f9e5cda3a91bd25f9f788cc0",
@@ -24,6 +24,7 @@ const RESOURCES = {
 "assets/assets/images/projects/forklift_sim.png": "b8fb2356678df1f10293d2348ba1fed4",
 "assets/assets/images/projects/game_jam_image.png": "fe4c1298d7e3fedec3c48209d152d724",
 "assets/assets/images/projects/hyper_image.png": "1ed59d587fd027d0a6befa5920f2ba73",
+"assets/assets/images/projects/match_three_image.png": "532fdf9a3b7dcddafc4dfff9fd79cafa",
 "assets/assets/images/projects/mongo_image.png": "b77e5efc268607387760a8995ceec3b8",
 "assets/assets/images/projects/OUA_Bootcamp.png": "66caac08cb26a795258e7ef554cb89be",
 "assets/assets/images/projects/roller_game_image.png": "ac38796426570432995c8edfc8d98b80",
@@ -67,9 +68,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7301d30fcf6db45fb31dea76ba8d6531",
-"/": "7301d30fcf6db45fb31dea76ba8d6531",
-"main.dart.js": "4a25f615242b630765e1f3cc5df36835",
+"index.html": "396e506e8a15ec504eaacba6d318cc70",
+"/": "396e506e8a15ec504eaacba6d318cc70",
+"main.dart.js": "04e9d50ace13d27ec43fda24871cb581",
 "manifest.json": "55632d4001d205197a7f0031c0a85ee8",
 "version.json": "a32cbe89d51a3e073bba58946809702f"
 };
