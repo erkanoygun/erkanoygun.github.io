@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "574336ef2ae68390fc6973bf9d194569",
+  "assets/AssetManifest.json": "c2c8050c5e19e6a13dc9a243b3885c7e",
+"assets/assets/animations/backend.json": "a5f8b3e8e4265f1b809482af70cc041a",
 "assets/assets/animations/flutter_logo.json": "caf07791c9fdf8c951c1e5441b70fb03",
 "assets/assets/animations/game_controller.json": "848de96dc80e6a12cc8f8301af7b9560",
 "assets/assets/animations/hand.json": "2d27b677f9e5cda3a91bd25f9f788cc0",
@@ -20,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/projects/arcade_game_image.png": "732f00cbcbf9a4e536094fd3340a6af2",
 "assets/assets/images/projects/arka_kapak_image.png": "26b2f272bcf130daa021380d14f9a721",
 "assets/assets/images/projects/blade_image.png": "a721c217b090e9d774b23c7357a6c8b4",
+"assets/assets/images/projects/book_store_api_image.png": "c9bb5223c2fced93d33dc7567d6fd9d5",
 "assets/assets/images/projects/cansat_image.png": "09fb8bc04ff7ead51d1765bc75445fe8",
 "assets/assets/images/projects/circle_dash_image.png": "ccf6affd6805a60d230413c24e2265af",
 "assets/assets/images/projects/forklift_sim.png": "b8fb2356678df1f10293d2348ba1fed4",
@@ -69,9 +71,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c3b301fc9e3f9a94eb8a33318301b3dc",
-"/": "c3b301fc9e3f9a94eb8a33318301b3dc",
-"main.dart.js": "9f69fdf2d883b4259f9555c6169973f4",
+"index.html": "491e49154b7d4a25db4405460d4882da",
+"/": "491e49154b7d4a25db4405460d4882da",
+"main.dart.js": "5bc71a0bcbf8e33a46db3c2274654cd1",
 "manifest.json": "55632d4001d205197a7f0031c0a85ee8",
 "version.json": "a32cbe89d51a3e073bba58946809702f"
 };
