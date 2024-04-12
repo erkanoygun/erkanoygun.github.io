@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c2c8050c5e19e6a13dc9a243b3885c7e",
+  "assets/AssetManifest.json": "2e48642c0dee16e399e3071f6a0627a4",
 "assets/assets/animations/backend.json": "a5f8b3e8e4265f1b809482af70cc041a",
 "assets/assets/animations/flutter_logo.json": "caf07791c9fdf8c951c1e5441b70fb03",
 "assets/assets/animations/game_controller.json": "848de96dc80e6a12cc8f8301af7b9560",
@@ -24,6 +24,7 @@ const RESOURCES = {
 "assets/assets/images/projects/book_store_api_image.png": "c9bb5223c2fced93d33dc7567d6fd9d5",
 "assets/assets/images/projects/cansat_image.png": "09fb8bc04ff7ead51d1765bc75445fe8",
 "assets/assets/images/projects/circle_dash_image.png": "ccf6affd6805a60d230413c24e2265af",
+"assets/assets/images/projects/dot_net_api_image.png": "993eee99b35e363e41a7311a6d6b082b",
 "assets/assets/images/projects/forklift_sim.png": "b8fb2356678df1f10293d2348ba1fed4",
 "assets/assets/images/projects/game_jam_image.png": "fe4c1298d7e3fedec3c48209d152d724",
 "assets/assets/images/projects/hyper_image.png": "1ed59d587fd027d0a6befa5920f2ba73",
@@ -34,6 +35,7 @@ const RESOURCES = {
 "assets/assets/images/projects/shop_app_image.png": "39171aa2c76e4740d6816b035f063aeb",
 "assets/assets/images/projects/shop_list_image.png": "55f562ab2fe89ab8d74a16f7d4c14a28",
 "assets/assets/images/projects/spotify_image.png": "6adb98f293a5b2da188511b496b1cb8f",
+"assets/assets/images/projects/spring_boot_api_image.png": "da239e74a8950b0f76b1d1adccfe8acb",
 "assets/assets/images/projects/teknofest_image.png": "5d01ec98e6db42fddd1ccf6f85a373ea",
 "assets/assets/images/projects/test.png": "cb298f2f8d97618523ecbc3cd68e499a",
 "assets/assets/images/projects/tubitak_image.png": "081093c2dd93abf201f807551fbc1b25",
@@ -71,9 +73,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7b8d7883e6806c68b0641ff24aabfb94",
-"/": "7b8d7883e6806c68b0641ff24aabfb94",
-"main.dart.js": "f324bf7348f03c19be44495e21a1adeb",
+"index.html": "ebc86b50a1c169543f32a0ebe46ec91c",
+"/": "ebc86b50a1c169543f32a0ebe46ec91c",
+"main.dart.js": "396140c271ff2cd79f325fb249dc53b5",
 "manifest.json": "55632d4001d205197a7f0031c0a85ee8",
 "version.json": "a32cbe89d51a3e073bba58946809702f"
 };
